@@ -2174,7 +2174,7 @@ input, select, textarea {
 /* Banner */
 
 	#banner {
-		background-image: url("/assets/css/images/fondo.jpg");
+		background-image: url("images/fondo.jpg");
 		background-position: center center;
 		background-size: auto 100%;
 		background-repeat: repeat;
