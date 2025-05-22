@@ -30,6 +30,9 @@ footer, header, hgroup, menu, nav, section {
 	display: block;}
 
 body {
+	background-color: #ffffff;
+	background-image: radial-gradient(circle, #e0e0e0 1px, transparent 1px);
+	background-size: 20px 20px;
 	line-height: 1;
 }
 
@@ -1536,6 +1539,7 @@ input, select, textarea {
 		}
 
 	header {
+		
 		margin: 0 0 1.5em 0;
 	}
 
